@@ -1,0 +1,18 @@
+{
+  "name": "kennethrapp/session",
+  "description": "A session handler",
+  "license": "MIT",
+  "keywords": [ "php", "session"],
+  "authors": [
+    {
+      "name": "Kenneth Rapp",
+      "email": "kennethrapp1@gmail.com"
+    }
+  ],
+  
+	"autoload": {
+	    "psr-0": {
+	      "Session": "src"
+	    }
+  	}
+}
